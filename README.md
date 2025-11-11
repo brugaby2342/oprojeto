@@ -1,5 +1,5 @@
 # oprojeto
-# 🤖 [Copiloto IA]
+# 🤖 Copiloto IA
 
 **Projeto da 1ª Disciplina de IA e Automação Digital - Fundamentos de IA com foco em IA Generativa**
 
@@ -83,7 +83,7 @@ Um segundo **Router (Router 2)** filtra o tipo de anexo:
 
 * **Plataforma de Automação:** [Make.com](https://www.make.com/)
 * **IA Generativa:** Gemini 2.5 Flash
-* **Gravação do Vídeo:** Guidde
+* **Gravação do Vídeo:** Vids
 * **Diagramas:** Miro/Lucidchart/Excalidraw/Mapify    
 
 ---
