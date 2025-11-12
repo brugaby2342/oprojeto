@@ -83,7 +83,7 @@ Um segundo **Router (Router 2)** filtra o tipo de anexo:
 
 * **Plataforma de Automação:** [Make.com](https://www.make.com/)
 * **IA Generativa:** Gemini 2.5 Flash
-* **Gravação do Vídeo:** Vids
+* **Gravação do Vídeo:** PowerPoint
 * **Diagramas:** Miro/Lucidchart/Excalidraw/Mapify    
 
 ---
